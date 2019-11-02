@@ -149,3 +149,10 @@ footer {
 .column p {
     margin: 0;
 }
+
+.topHeader {
+    background-image: url('img/encabezado.PNG');
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
