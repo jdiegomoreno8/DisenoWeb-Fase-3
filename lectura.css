@@ -133,14 +133,14 @@ a{
 
 #footer{
 
-	padding: 1px;
-	height: 7%;
+padding: 4px;
+	height: 9%;
 	margin-left: -960px;
 	margin-top: 150px;
 	margin-right: 4px;
-	font-size: 0.5em;
+	font-size: 1em;
 	color: #fff;
     font-style: italic;
-	background-color: #3b83bd;
-	text-align: center; 
+	background-color: #013ADF;
+	text-align: left; 
 }
